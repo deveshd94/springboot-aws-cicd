@@ -2,5 +2,5 @@ services:
   book-search:
     build: .
     ports:
-      - "9090:9090"
+      - "8080:8080"
 

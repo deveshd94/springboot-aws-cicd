@@ -13,5 +13,5 @@ management:
         enabled: true
 
 server:
-  port: 9090
+  port: 8080
 
